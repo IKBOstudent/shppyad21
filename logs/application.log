@@ -1,0 +1,624 @@
+2023-04-25 00:39:07.571 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Starting Shppyad21Application using Java 19.0.2 with PID 24840 (C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main started by maxpo in C:\Users\maxpo\IdeaProjects\shppyad21)
+2023-04-25 00:39:07.573 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - No active profile set, falling back to 1 default profile: "default"
+2023-04-25 00:39:09.740 [restartedMain] INFO  SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-04-25 00:39:11.536 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Started Shppyad21Application in 4.273 seconds (process running for 7.752)
+2023-04-25 00:49:16.973 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Starting Shppyad21Application using Java 19.0.2 with PID 12252 (C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main started by maxpo in C:\Users\maxpo\IdeaProjects\shppyad21)
+2023-04-25 00:49:16.975 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - No active profile set, falling back to 1 default profile: "default"
+2023-04-25 00:49:19.129 [restartedMain] INFO  SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-04-25 00:49:20.800 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Started Shppyad21Application in 4.183 seconds (process running for 5.051)
+2023-04-25 01:11:53.288 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Starting Shppyad21Application using Java 19.0.2 with PID 8572 (C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main started by maxpo in C:\Users\maxpo\IdeaProjects\shppyad21)
+2023-04-25 01:11:53.290 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - No active profile set, falling back to 1 default profile: "default"
+2023-04-25 01:11:55.057 [restartedMain] INFO  SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-04-25 01:11:56.453 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Started Shppyad21Application in 3.467 seconds (process running for 4.158)
+2023-04-25 01:13:44.220 [http-nio-8080-exec-1] ERROR c.e.s.ServiceExecutionTimeAspect - Exception occurred during method execution
+2023-04-25 01:13:44.221 [http-nio-8080-exec-1] INFO  c.e.s.ServiceExecutionTimeAspect - Execution of PostOfficeService.createPostOffice took 21310 ms
+2023-04-25 01:15:49.702 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Starting Shppyad21Application using Java 19.0.2 with PID 18248 (C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main started by maxpo in C:\Users\maxpo\IdeaProjects\shppyad21)
+2023-04-25 01:15:49.704 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - No active profile set, falling back to 1 default profile: "default"
+2023-04-25 01:15:51.400 [restartedMain] INFO  SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-04-25 01:15:52.861 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Started Shppyad21Application in 3.432 seconds (process running for 4.13)
+2023-04-25 01:16:21.984 [http-nio-8080-exec-1] ERROR c.e.s.ServiceExecutionTimeAspect - Exception occurred during method execution
+2023-04-25 01:16:21.986 [http-nio-8080-exec-1] INFO  c.e.s.ServiceExecutionTimeAspect - Execution of PostOfficeService.createPostOffice took 21265 ms
+2023-04-25 01:16:36.519 [http-nio-8080-exec-4] INFO  c.e.s.Departure.DepartureService - found all departures
+2023-04-25 01:16:36.579 [http-nio-8080-exec-4] INFO  c.e.s.ServiceExecutionTimeAspect - Execution of DepartureService.getAllDepartures took 60 ms
+2023-04-25 03:25:24.807 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Starting Shppyad21Application using Java 19.0.2 with PID 10396 (C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main started by maxpo in C:\Users\maxpo\IdeaProjects\shppyad21)
+2023-04-25 03:25:24.812 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - No active profile set, falling back to 1 default profile: "default"
+2023-04-25 03:25:37.018 [restartedMain] INFO  SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-04-25 03:26:19.538 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Starting Shppyad21Application using Java 19.0.2 with PID 1168 (C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main started by maxpo in C:\Users\maxpo\IdeaProjects\shppyad21)
+2023-04-25 03:26:19.540 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - No active profile set, falling back to 1 default profile: "default"
+2023-04-25 03:26:19.591 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-25 03:26:19.591 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-25 03:26:20.879 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-04-25 03:26:21.010 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 115 ms. Found 2 JPA repository interfaces.
+2023-04-25 03:26:22.305 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-04-25 03:26:22.373 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2781 ms
+2023-04-25 03:26:23.335 [restartedMain] INFO  SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-04-25 03:26:24.705 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 03:26:25.167 [restartedMain] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'departureController' defined in file [C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main\com\example\shppyad21\Departure\DepartureController.class]: Unsatisfied dependency expressed through constructor parameter 0: Error creating bean with name 'departureService' defined in file [C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main\com\example\shppyad21\Departure\DepartureService.class]: Unsatisfied dependency expressed through constructor parameter 2: Error creating bean with name 'emailService' defined in file [C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main\com\example\shppyad21\EmailService.class]: Unsatisfied dependency expressed through constructor parameter 1: No qualifying bean of type 'org.springframework.security.oauth2.client.OAuth2AuthorizedClientService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+2023-04-25 03:26:25.168 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 03:26:25.210 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-04-25 03:26:25.238 [restartedMain] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 1 of constructor in com.example.shppyad21.EmailService required a bean of type 'org.springframework.security.oauth2.client.OAuth2AuthorizedClientService' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'org.springframework.security.oauth2.client.OAuth2AuthorizedClientService' in your configuration.
+
+2023-04-25 03:31:57.913 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Starting Shppyad21Application using Java 19.0.2 with PID 17052 (C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main started by maxpo in C:\Users\maxpo\IdeaProjects\shppyad21)
+2023-04-25 03:31:57.915 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - No active profile set, falling back to 1 default profile: "default"
+2023-04-25 03:31:57.965 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-25 03:31:57.965 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-25 03:31:58.830 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-04-25 03:31:58.917 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 77 ms. Found 2 JPA repository interfaces.
+2023-04-25 03:32:00.080 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-04-25 03:32:00.233 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2267 ms
+2023-04-25 03:32:01.553 [restartedMain] INFO  SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-04-25 03:32:03.145 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 03:32:03.761 [restartedMain] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'departureController' defined in file [C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main\com\example\shppyad21\Departure\DepartureController.class]: Unsatisfied dependency expressed through constructor parameter 0: Error creating bean with name 'departureService' defined in file [C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main\com\example\shppyad21\Departure\DepartureService.class]: Unsatisfied dependency expressed through constructor parameter 2: Error creating bean with name 'emailService' defined in file [C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main\com\example\shppyad21\EmailService.class]: Unsatisfied dependency expressed through constructor parameter 1: Error creating bean with name 'authorizedClientService' defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/servlet/OAuth2WebSecurityConfiguration.class]: Unsatisfied dependency expressed through method 'authorizedClientService' parameter 0: Error creating bean with name 'clientRegistrationRepository' defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/servlet/OAuth2ClientRegistrationRepositoryConfiguration.class]: Failed to instantiate [org.springframework.security.oauth2.client.registration.InMemoryClientRegistrationRepository]: Factory method 'clientRegistrationRepository' threw exception with message: IMPLICIT
+2023-04-25 03:32:03.762 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 03:32:03.808 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-04-25 03:32:03.832 [restartedMain] ERROR o.s.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'departureController' defined in file [C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main\com\example\shppyad21\Departure\DepartureController.class]: Unsatisfied dependency expressed through constructor parameter 0: Error creating bean with name 'departureService' defined in file [C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main\com\example\shppyad21\Departure\DepartureService.class]: Unsatisfied dependency expressed through constructor parameter 2: Error creating bean with name 'emailService' defined in file [C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main\com\example\shppyad21\EmailService.class]: Unsatisfied dependency expressed through constructor parameter 1: Error creating bean with name 'authorizedClientService' defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/servlet/OAuth2WebSecurityConfiguration.class]: Unsatisfied dependency expressed through method 'authorizedClientService' parameter 0: Error creating bean with name 'clientRegistrationRepository' defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/servlet/OAuth2ClientRegistrationRepositoryConfiguration.class]: Failed to instantiate [org.springframework.security.oauth2.client.registration.InMemoryClientRegistrationRepository]: Factory method 'clientRegistrationRepository' threw exception with message: IMPLICIT
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:798)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:245)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1352)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1189)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:560)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:520)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:973)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:917)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:584)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:732)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:434)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:310)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1304)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1293)
+	at com.example.shppyad21.Shppyad21Application.main(Shppyad21Application.java:9)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'departureService' defined in file [C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main\com\example\shppyad21\Departure\DepartureService.class]: Unsatisfied dependency expressed through constructor parameter 2: Error creating bean with name 'emailService' defined in file [C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main\com\example\shppyad21\EmailService.class]: Unsatisfied dependency expressed through constructor parameter 1: Error creating bean with name 'authorizedClientService' defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/servlet/OAuth2WebSecurityConfiguration.class]: Unsatisfied dependency expressed through method 'authorizedClientService' parameter 0: Error creating bean with name 'clientRegistrationRepository' defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/servlet/OAuth2ClientRegistrationRepositoryConfiguration.class]: Failed to instantiate [org.springframework.security.oauth2.client.registration.InMemoryClientRegistrationRepository]: Factory method 'clientRegistrationRepository' threw exception with message: IMPLICIT
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:798)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:245)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1352)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1189)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:560)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:520)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:254)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1417)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1337)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:885)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:789)
+	... 22 common frames omitted
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'emailService' defined in file [C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main\com\example\shppyad21\EmailService.class]: Unsatisfied dependency expressed through constructor parameter 1: Error creating bean with name 'authorizedClientService' defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/servlet/OAuth2WebSecurityConfiguration.class]: Unsatisfied dependency expressed through method 'authorizedClientService' parameter 0: Error creating bean with name 'clientRegistrationRepository' defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/servlet/OAuth2ClientRegistrationRepositoryConfiguration.class]: Failed to instantiate [org.springframework.security.oauth2.client.registration.InMemoryClientRegistrationRepository]: Factory method 'clientRegistrationRepository' threw exception with message: IMPLICIT
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:798)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:245)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1352)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1189)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:560)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:520)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:254)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1417)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1337)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:885)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:789)
+	... 36 common frames omitted
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'authorizedClientService' defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/servlet/OAuth2WebSecurityConfiguration.class]: Unsatisfied dependency expressed through method 'authorizedClientService' parameter 0: Error creating bean with name 'clientRegistrationRepository' defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/servlet/OAuth2ClientRegistrationRepositoryConfiguration.class]: Failed to instantiate [org.springframework.security.oauth2.client.registration.InMemoryClientRegistrationRepository]: Factory method 'clientRegistrationRepository' threw exception with message: IMPLICIT
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:798)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:548)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1332)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1162)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:560)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:520)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:254)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1417)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1337)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:885)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:789)
+	... 50 common frames omitted
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'clientRegistrationRepository' defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/servlet/OAuth2ClientRegistrationRepositoryConfiguration.class]: Failed to instantiate [org.springframework.security.oauth2.client.registration.InMemoryClientRegistrationRepository]: Factory method 'clientRegistrationRepository' threw exception with message: IMPLICIT
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:657)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:645)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1332)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1162)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:560)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:520)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:254)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1417)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1337)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:885)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:789)
+	... 64 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.security.oauth2.client.registration.InMemoryClientRegistrationRepository]: Factory method 'clientRegistrationRepository' threw exception with message: IMPLICIT
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:171)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:653)
+	... 78 common frames omitted
+Caused by: java.lang.NoSuchFieldError: IMPLICIT
+	at org.springframework.security.oauth2.client.registration.ClientRegistration$Builder.build(ClientRegistration.java:619)
+	at org.springframework.boot.autoconfigure.security.oauth2.client.OAuth2ClientPropertiesRegistrationAdapter.getClientRegistration(OAuth2ClientPropertiesRegistrationAdapter.java:76)
+	at org.springframework.boot.autoconfigure.security.oauth2.client.OAuth2ClientPropertiesRegistrationAdapter.lambda$getClientRegistrations$0(OAuth2ClientPropertiesRegistrationAdapter.java:54)
+	at java.base/java.util.HashMap.forEach(HashMap.java:1429)
+	at org.springframework.boot.autoconfigure.security.oauth2.client.OAuth2ClientPropertiesRegistrationAdapter.getClientRegistrations(OAuth2ClientPropertiesRegistrationAdapter.java:53)
+	at org.springframework.boot.autoconfigure.security.oauth2.client.servlet.OAuth2ClientRegistrationRepositoryConfiguration.clientRegistrationRepository(OAuth2ClientRegistrationRepositoryConfiguration.java:49)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:139)
+	... 79 common frames omitted
+2023-04-25 03:33:50.463 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Starting Shppyad21Application using Java 19.0.2 with PID 24264 (C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main started by maxpo in C:\Users\maxpo\IdeaProjects\shppyad21)
+2023-04-25 03:33:50.465 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - No active profile set, falling back to 1 default profile: "default"
+2023-04-25 03:33:50.524 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-25 03:33:50.525 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-25 03:33:51.544 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-04-25 03:33:51.606 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 52 ms. Found 2 JPA repository interfaces.
+2023-04-25 03:33:52.614 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-04-25 03:33:52.725 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2200 ms
+2023-04-25 03:33:54.056 [restartedMain] INFO  SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-04-25 03:33:55.526 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 03:33:56.243 [restartedMain] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'departureController' defined in file [C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main\com\example\shppyad21\Departure\DepartureController.class]: Unsatisfied dependency expressed through constructor parameter 0: Error creating bean with name 'departureService' defined in file [C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main\com\example\shppyad21\Departure\DepartureService.class]: Unsatisfied dependency expressed through constructor parameter 2: Error creating bean with name 'emailService' defined in file [C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main\com\example\shppyad21\EmailService.class]: Unsatisfied dependency expressed through constructor parameter 1: Error creating bean with name 'authorizedClientService' defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/servlet/OAuth2WebSecurityConfiguration.class]: Unsatisfied dependency expressed through method 'authorizedClientService' parameter 0: Error creating bean with name 'clientRegistrationRepository' defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/servlet/OAuth2ClientRegistrationRepositoryConfiguration.class]: Failed to instantiate [org.springframework.security.oauth2.client.registration.InMemoryClientRegistrationRepository]: Factory method 'clientRegistrationRepository' threw exception with message: IMPLICIT
+2023-04-25 03:33:56.244 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 03:33:56.305 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-04-25 03:33:56.344 [restartedMain] ERROR o.s.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'departureController' defined in file [C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main\com\example\shppyad21\Departure\DepartureController.class]: Unsatisfied dependency expressed through constructor parameter 0: Error creating bean with name 'departureService' defined in file [C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main\com\example\shppyad21\Departure\DepartureService.class]: Unsatisfied dependency expressed through constructor parameter 2: Error creating bean with name 'emailService' defined in file [C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main\com\example\shppyad21\EmailService.class]: Unsatisfied dependency expressed through constructor parameter 1: Error creating bean with name 'authorizedClientService' defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/servlet/OAuth2WebSecurityConfiguration.class]: Unsatisfied dependency expressed through method 'authorizedClientService' parameter 0: Error creating bean with name 'clientRegistrationRepository' defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/servlet/OAuth2ClientRegistrationRepositoryConfiguration.class]: Failed to instantiate [org.springframework.security.oauth2.client.registration.InMemoryClientRegistrationRepository]: Factory method 'clientRegistrationRepository' threw exception with message: IMPLICIT
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:798)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:245)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1352)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1189)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:560)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:520)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:973)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:917)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:584)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:732)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:434)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:310)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1304)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1293)
+	at com.example.shppyad21.Shppyad21Application.main(Shppyad21Application.java:9)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'departureService' defined in file [C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main\com\example\shppyad21\Departure\DepartureService.class]: Unsatisfied dependency expressed through constructor parameter 2: Error creating bean with name 'emailService' defined in file [C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main\com\example\shppyad21\EmailService.class]: Unsatisfied dependency expressed through constructor parameter 1: Error creating bean with name 'authorizedClientService' defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/servlet/OAuth2WebSecurityConfiguration.class]: Unsatisfied dependency expressed through method 'authorizedClientService' parameter 0: Error creating bean with name 'clientRegistrationRepository' defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/servlet/OAuth2ClientRegistrationRepositoryConfiguration.class]: Failed to instantiate [org.springframework.security.oauth2.client.registration.InMemoryClientRegistrationRepository]: Factory method 'clientRegistrationRepository' threw exception with message: IMPLICIT
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:798)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:245)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1352)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1189)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:560)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:520)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:254)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1417)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1337)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:885)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:789)
+	... 22 common frames omitted
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'emailService' defined in file [C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main\com\example\shppyad21\EmailService.class]: Unsatisfied dependency expressed through constructor parameter 1: Error creating bean with name 'authorizedClientService' defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/servlet/OAuth2WebSecurityConfiguration.class]: Unsatisfied dependency expressed through method 'authorizedClientService' parameter 0: Error creating bean with name 'clientRegistrationRepository' defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/servlet/OAuth2ClientRegistrationRepositoryConfiguration.class]: Failed to instantiate [org.springframework.security.oauth2.client.registration.InMemoryClientRegistrationRepository]: Factory method 'clientRegistrationRepository' threw exception with message: IMPLICIT
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:798)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:245)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1352)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1189)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:560)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:520)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:254)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1417)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1337)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:885)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:789)
+	... 36 common frames omitted
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'authorizedClientService' defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/servlet/OAuth2WebSecurityConfiguration.class]: Unsatisfied dependency expressed through method 'authorizedClientService' parameter 0: Error creating bean with name 'clientRegistrationRepository' defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/servlet/OAuth2ClientRegistrationRepositoryConfiguration.class]: Failed to instantiate [org.springframework.security.oauth2.client.registration.InMemoryClientRegistrationRepository]: Factory method 'clientRegistrationRepository' threw exception with message: IMPLICIT
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:798)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:548)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1332)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1162)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:560)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:520)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:254)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1417)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1337)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:885)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:789)
+	... 50 common frames omitted
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'clientRegistrationRepository' defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/servlet/OAuth2ClientRegistrationRepositoryConfiguration.class]: Failed to instantiate [org.springframework.security.oauth2.client.registration.InMemoryClientRegistrationRepository]: Factory method 'clientRegistrationRepository' threw exception with message: IMPLICIT
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:657)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:645)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1332)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1162)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:560)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:520)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:254)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1417)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1337)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:885)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:789)
+	... 64 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.security.oauth2.client.registration.InMemoryClientRegistrationRepository]: Factory method 'clientRegistrationRepository' threw exception with message: IMPLICIT
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:171)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:653)
+	... 78 common frames omitted
+Caused by: java.lang.NoSuchFieldError: IMPLICIT
+	at org.springframework.security.oauth2.client.registration.ClientRegistration$Builder.build(ClientRegistration.java:619)
+	at org.springframework.boot.autoconfigure.security.oauth2.client.OAuth2ClientPropertiesRegistrationAdapter.getClientRegistration(OAuth2ClientPropertiesRegistrationAdapter.java:76)
+	at org.springframework.boot.autoconfigure.security.oauth2.client.OAuth2ClientPropertiesRegistrationAdapter.lambda$getClientRegistrations$0(OAuth2ClientPropertiesRegistrationAdapter.java:54)
+	at java.base/java.util.HashMap.forEach(HashMap.java:1429)
+	at org.springframework.boot.autoconfigure.security.oauth2.client.OAuth2ClientPropertiesRegistrationAdapter.getClientRegistrations(OAuth2ClientPropertiesRegistrationAdapter.java:53)
+	at org.springframework.boot.autoconfigure.security.oauth2.client.servlet.OAuth2ClientRegistrationRepositoryConfiguration.clientRegistrationRepository(OAuth2ClientRegistrationRepositoryConfiguration.java:49)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:139)
+	... 79 common frames omitted
+2023-04-25 03:35:04.906 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Starting Shppyad21Application using Java 19.0.2 with PID 12120 (C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main started by maxpo in C:\Users\maxpo\IdeaProjects\shppyad21)
+2023-04-25 03:35:04.908 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - No active profile set, falling back to 1 default profile: "default"
+2023-04-25 03:35:04.961 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-25 03:35:04.962 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-25 03:35:05.666 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-04-25 03:35:05.732 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 52 ms. Found 2 JPA repository interfaces.
+2023-04-25 03:35:06.632 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-04-25 03:35:06.712 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1749 ms
+2023-04-25 03:35:07.468 [restartedMain] INFO  SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-04-25 03:35:08.453 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 03:35:08.934 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-25 03:35:09.530 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@12533937, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@9aed24, org.springframework.security.web.context.SecurityContextHolderFilter@88dfc7a, org.springframework.security.web.header.HeaderWriterFilter@5d13ba34, org.springframework.security.web.csrf.CsrfFilter@5684986f, org.springframework.security.web.authentication.logout.LogoutFilter@1711038f, org.springframework.security.oauth2.client.web.OAuth2AuthorizationRequestRedirectFilter@1cbf09d1, org.springframework.security.oauth2.client.web.OAuth2AuthorizationRequestRedirectFilter@26708fbf, org.springframework.security.oauth2.client.web.OAuth2LoginAuthenticationFilter@42e5e7b3, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@7a9424c1, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@4b6cc4c9, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@66079684, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@23d85b08, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@152c7ca4, org.springframework.security.oauth2.client.web.OAuth2AuthorizationCodeGrantFilter@3d9ec46a, org.springframework.security.web.access.ExceptionTranslationFilter@67a9eb1f, org.springframework.security.web.access.intercept.AuthorizationFilter@53700eed]
+2023-04-25 03:35:09.578 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-04-25 03:35:09.614 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-25 03:35:09.622 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Started Shppyad21Application in 5.198 seconds (process running for 6.471)
+2023-04-25 03:35:47.128 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-04-25 03:35:47.129 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-04-25 03:38:19.603 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 03:38:24.833 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Starting Shppyad21Application using Java 19.0.2 with PID 13164 (C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main started by maxpo in C:\Users\maxpo\IdeaProjects\shppyad21)
+2023-04-25 03:38:24.835 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - No active profile set, falling back to 1 default profile: "default"
+2023-04-25 03:38:24.892 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-25 03:38:24.892 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-25 03:38:25.741 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-04-25 03:38:25.842 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 82 ms. Found 2 JPA repository interfaces.
+2023-04-25 03:38:26.710 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-04-25 03:38:26.795 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1902 ms
+2023-04-25 03:38:27.699 [restartedMain] INFO  SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-04-25 03:38:28.849 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 03:38:29.536 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-25 03:38:30.147 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@5ace7b6, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@212735e6, org.springframework.security.web.context.SecurityContextHolderFilter@5e826842, org.springframework.security.web.header.HeaderWriterFilter@124c65a4, org.springframework.security.web.csrf.CsrfFilter@55d385dd, org.springframework.security.web.authentication.logout.LogoutFilter@20601df1, org.springframework.security.oauth2.client.web.OAuth2AuthorizationRequestRedirectFilter@1f5a2cf4, org.springframework.security.oauth2.client.web.OAuth2AuthorizationRequestRedirectFilter@326fba40, org.springframework.security.oauth2.client.web.OAuth2LoginAuthenticationFilter@16c9907, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@5a5c6b2, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@5a272371, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@26fae67c, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@3a04691e, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@425776c7, org.springframework.security.oauth2.client.web.OAuth2AuthorizationCodeGrantFilter@56b5b9da, org.springframework.security.web.access.ExceptionTranslationFilter@7114893f, org.springframework.security.web.access.intercept.AuthorizationFilter@27027a5b]
+2023-04-25 03:38:30.221 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-04-25 03:38:30.277 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-25 03:38:30.287 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Started Shppyad21Application in 5.948 seconds (process running for 7.038)
+2023-04-25 03:38:35.823 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-04-25 03:38:35.825 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2023-04-25 03:39:31.460 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 13:43:30.085 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Starting Shppyad21Application using Java 19.0.2 with PID 21204 (C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main started by maxpo in C:\Users\maxpo\IdeaProjects\shppyad21)
+2023-04-25 13:43:30.088 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - No active profile set, falling back to 1 default profile: "default"
+2023-04-25 13:43:30.140 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-25 13:43:30.140 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-25 13:43:30.910 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-04-25 13:43:30.970 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 52 ms. Found 2 JPA repository interfaces.
+2023-04-25 13:43:31.632 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-04-25 13:43:31.688 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1548 ms
+2023-04-25 13:43:32.511 [restartedMain] INFO  SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-04-25 13:43:33.702 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 13:43:34.141 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-25 13:43:34.531 [restartedMain] WARN  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: b7bed2fb-71be-4f66-8afd-d8e84bd126f7
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2023-04-25 13:43:34.658 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@3ba97ef0, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@16afd2c4, org.springframework.security.web.context.SecurityContextHolderFilter@19deb9ce, org.springframework.security.web.header.HeaderWriterFilter@65caf02d, org.springframework.security.web.csrf.CsrfFilter@4965ac8c, org.springframework.security.web.authentication.logout.LogoutFilter@2d369abc, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@79b2952, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@4fb5852, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@2257e82d, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@45ee3448, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4b9177, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@358d8960, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@36d1d63, org.springframework.security.web.access.ExceptionTranslationFilter@3bafb4d6, org.springframework.security.web.access.intercept.AuthorizationFilter@62fb6190]
+2023-04-25 13:43:34.714 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-04-25 13:43:34.755 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-25 13:43:34.767 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Started Shppyad21Application in 5.074 seconds (process running for 6.943)
+2023-04-25 13:43:34.788 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 13:44:31.830 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Starting Shppyad21Application using Java 19.0.2 with PID 19936 (C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main started by maxpo in C:\Users\maxpo\IdeaProjects\shppyad21)
+2023-04-25 13:44:31.834 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - No active profile set, falling back to 1 default profile: "default"
+2023-04-25 13:44:31.896 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-25 13:44:31.896 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-25 13:44:32.579 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-04-25 13:44:32.636 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 50 ms. Found 2 JPA repository interfaces.
+2023-04-25 13:44:33.254 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-04-25 13:44:33.311 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1414 ms
+2023-04-25 13:44:33.943 [restartedMain] INFO  SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-04-25 13:44:34.778 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 13:44:35.264 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-25 13:44:35.620 [restartedMain] WARN  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 2aa7b511-bc66-4e8d-8430-cbbfc351a07a
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2023-04-25 13:44:35.747 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@c9effae, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@48e2bd7, org.springframework.security.web.context.SecurityContextHolderFilter@4fb5852, org.springframework.security.web.header.HeaderWriterFilter@3fa6c93b, org.springframework.security.web.csrf.CsrfFilter@2a675fc1, org.springframework.security.web.authentication.logout.LogoutFilter@795942d0, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@414c0afe, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@6a874b96, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@42493fc4, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@b69bd07, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3d4616c0, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1d5393fa, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2d17dacf, org.springframework.security.web.access.ExceptionTranslationFilter@358d8960, org.springframework.security.web.access.intercept.AuthorizationFilter@45ee3448]
+2023-04-25 13:44:35.791 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-04-25 13:44:35.831 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-25 13:44:35.845 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Started Shppyad21Application in 4.352 seconds (process running for 5.253)
+2023-04-25 13:44:38.000 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 13:45:07.677 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Starting Shppyad21Application using Java 19.0.2 with PID 22152 (C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main started by maxpo in C:\Users\maxpo\IdeaProjects\shppyad21)
+2023-04-25 13:45:07.680 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - No active profile set, falling back to 1 default profile: "default"
+2023-04-25 13:45:07.727 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-25 13:45:07.727 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-25 13:45:08.283 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-04-25 13:45:08.337 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 49 ms. Found 2 JPA repository interfaces.
+2023-04-25 13:45:08.912 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-04-25 13:45:08.968 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1240 ms
+2023-04-25 13:45:09.742 [restartedMain] INFO  SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-04-25 13:45:10.497 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 13:45:10.895 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-25 13:45:11.176 [restartedMain] WARN  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: afe53847-81bf-4bc6-bf88-9d272b5fca6a
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2023-04-25 13:45:11.266 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@5cabff45, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@620a528b, org.springframework.security.web.context.SecurityContextHolderFilter@65515f10, org.springframework.security.web.header.HeaderWriterFilter@272c9e6d, org.springframework.security.web.csrf.CsrfFilter@cfe3a58, org.springframework.security.web.authentication.logout.LogoutFilter@1949f83d, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@284f08b2, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@ac46862, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@10612, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@51a679e9, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@1092e3a2, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@35501a8a, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@9ca2812, org.springframework.security.web.access.ExceptionTranslationFilter@1efc123, org.springframework.security.web.access.intercept.AuthorizationFilter@39c73f83]
+2023-04-25 13:45:11.316 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-04-25 13:45:11.347 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-25 13:45:11.355 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Started Shppyad21Application in 3.947 seconds (process running for 4.655)
+2023-04-25 13:45:41.857 [http-nio-8080-exec-7] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-04-25 13:45:41.858 [http-nio-8080-exec-7] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-04-25 13:48:06.777 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 13:48:44.458 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Starting Shppyad21Application using Java 19.0.2 with PID 24612 (C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main started by maxpo in C:\Users\maxpo\IdeaProjects\shppyad21)
+2023-04-25 13:48:44.460 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - No active profile set, falling back to 1 default profile: "default"
+2023-04-25 13:48:44.499 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-25 13:48:44.499 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-25 13:48:45.073 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-04-25 13:48:45.126 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 46 ms. Found 2 JPA repository interfaces.
+2023-04-25 13:48:45.783 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-04-25 13:48:45.833 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1334 ms
+2023-04-25 13:48:46.413 [restartedMain] INFO  SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-04-25 13:48:47.173 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 13:48:47.565 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-25 13:48:47.845 [restartedMain] WARN  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: e4d09325-abb4-47d6-9eb6-f5498ac6a8e0
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2023-04-25 13:48:47.944 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@79b5c75d, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@2feb5046, org.springframework.security.web.context.SecurityContextHolderFilter@2a6739ce, org.springframework.security.web.header.HeaderWriterFilter@cfe3a58, org.springframework.security.web.csrf.CsrfFilter@5eef9721, org.springframework.security.web.authentication.logout.LogoutFilter@2df0dfec, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@62e6feb6, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@369bcd1b, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@2940c711, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@e910785, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3d61076, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@53d5311d, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@34d4a9a0, org.springframework.security.web.access.ExceptionTranslationFilter@3c9c2c5e, org.springframework.security.web.access.intercept.AuthorizationFilter@5d05fd01]
+2023-04-25 13:48:47.987 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-04-25 13:48:48.016 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-25 13:48:48.023 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Started Shppyad21Application in 3.851 seconds (process running for 4.507)
+2023-04-25 13:49:18.752 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 13:49:25.804 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Starting Shppyad21Application using Java 19.0.2 with PID 6380 (C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main started by maxpo in C:\Users\maxpo\IdeaProjects\shppyad21)
+2023-04-25 13:49:25.807 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - No active profile set, falling back to 1 default profile: "default"
+2023-04-25 13:49:25.845 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-25 13:49:25.845 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-25 13:49:26.369 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-04-25 13:49:26.414 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 39 ms. Found 2 JPA repository interfaces.
+2023-04-25 13:49:26.930 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-04-25 13:49:26.980 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1135 ms
+2023-04-25 13:49:27.474 [restartedMain] INFO  SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-04-25 13:49:28.207 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 13:49:28.573 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-25 13:49:28.822 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-04-25 13:49:28.850 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-25 13:49:28.858 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Started Shppyad21Application in 3.342 seconds (process running for 4.24)
+2023-04-25 13:49:37.323 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-04-25 13:49:37.324 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-04-25 13:49:37.470 [http-nio-8080-exec-2] INFO  c.e.s.PostOffice.PostOfficeService - created new post office
+2023-04-25 13:49:37.471 [http-nio-8080-exec-2] INFO  c.e.s.ServiceExecutionTimeAspect - Execution of PostOfficeService.createPostOffice took 41 ms
+2023-04-25 13:49:45.354 [http-nio-8080-exec-5] INFO  c.e.s.Departure.DepartureService - added new departure
+2023-04-25 13:49:45.355 [http-nio-8080-exec-5] INFO  c.e.s.ServiceExecutionTimeAspect - Execution of DepartureService.addDeparture took 43 ms
+2023-04-25 13:49:49.752 [http-nio-8080-exec-3] INFO  c.e.s.PostOffice.PostOfficeService - found all post offices
+2023-04-25 13:49:49.817 [http-nio-8080-exec-3] INFO  c.e.s.ServiceExecutionTimeAspect - Execution of PostOfficeService.getAllPostOffices took 65 ms
+2023-04-25 13:49:53.632 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 13:51:05.819 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Starting Shppyad21Application using Java 19.0.2 with PID 27196 (C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main started by maxpo in C:\Users\maxpo\IdeaProjects\shppyad21)
+2023-04-25 13:51:05.821 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - No active profile set, falling back to 1 default profile: "default"
+2023-04-25 13:51:05.866 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-25 13:51:05.866 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-25 13:51:06.399 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-04-25 13:51:06.441 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 36 ms. Found 2 JPA repository interfaces.
+2023-04-25 13:51:06.962 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-04-25 13:51:07.012 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1145 ms
+2023-04-25 13:51:07.550 [restartedMain] INFO  SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-04-25 13:51:08.376 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 13:51:08.767 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-25 13:51:09.048 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-04-25 13:51:09.079 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-25 13:51:09.086 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Started Shppyad21Application in 3.547 seconds (process running for 4.198)
+2023-04-25 13:51:15.124 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-04-25 13:51:15.125 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-04-25 13:52:42.969 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 13:53:19.656 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Starting Shppyad21Application using Java 19.0.2 with PID 18748 (C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main started by maxpo in C:\Users\maxpo\IdeaProjects\shppyad21)
+2023-04-25 13:53:19.658 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - No active profile set, falling back to 1 default profile: "default"
+2023-04-25 13:53:19.697 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-25 13:53:19.697 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-25 13:53:20.246 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-04-25 13:53:20.288 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 36 ms. Found 2 JPA repository interfaces.
+2023-04-25 13:53:20.800 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-04-25 13:53:20.849 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1151 ms
+2023-04-25 13:53:21.361 [restartedMain] INFO  SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-04-25 13:53:22.051 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 13:53:22.425 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-25 13:53:22.702 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-04-25 13:53:22.735 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-25 13:53:22.743 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Started Shppyad21Application in 3.367 seconds (process running for 4.012)
+2023-04-25 13:53:27.018 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-04-25 13:53:27.020 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2023-04-25 13:53:27.549 [http-nio-8080-exec-1] ERROR c.e.s.ServiceExecutionTimeAspect - Exception occurred during method execution
+2023-04-25 13:53:27.550 [http-nio-8080-exec-1] INFO  c.e.s.ServiceExecutionTimeAspect - Execution of PostOfficeService.createPostOffice took 422 ms
+2023-04-25 13:57:23.892 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 13:58:00.095 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Starting Shppyad21Application using Java 19.0.2 with PID 19544 (C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main started by maxpo in C:\Users\maxpo\IdeaProjects\shppyad21)
+2023-04-25 13:58:00.097 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - No active profile set, falling back to 1 default profile: "default"
+2023-04-25 13:58:00.143 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-25 13:58:00.143 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-25 13:58:00.653 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-04-25 13:58:00.697 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 38 ms. Found 2 JPA repository interfaces.
+2023-04-25 13:58:01.202 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-04-25 13:58:01.251 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1108 ms
+2023-04-25 13:58:01.771 [restartedMain] INFO  SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-04-25 13:58:02.470 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 13:58:02.870 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-25 13:58:03.160 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-04-25 13:58:03.193 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-25 13:58:03.203 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Started Shppyad21Application in 3.418 seconds (process running for 4.063)
+2023-04-25 13:58:12.836 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-04-25 13:58:12.837 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-04-25 13:58:13.346 [http-nio-8080-exec-1] INFO  c.e.s.PostOffice.PostOfficeService - created new post office
+2023-04-25 13:58:13.347 [http-nio-8080-exec-1] INFO  c.e.s.ServiceExecutionTimeAspect - Execution of PostOfficeService.createPostOffice took 406 ms
+2023-04-25 14:00:51.505 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 14:01:07.164 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Starting Shppyad21Application using Java 19.0.2 with PID 6128 (C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main started by maxpo in C:\Users\maxpo\IdeaProjects\shppyad21)
+2023-04-25 14:01:07.168 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - No active profile set, falling back to 1 default profile: "default"
+2023-04-25 14:01:07.206 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-25 14:01:07.206 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-25 14:01:07.758 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-04-25 14:01:07.808 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 44 ms. Found 2 JPA repository interfaces.
+2023-04-25 14:01:08.342 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-04-25 14:01:08.398 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1190 ms
+2023-04-25 14:01:08.971 [restartedMain] INFO  SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-04-25 14:01:09.673 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 14:01:10.044 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-25 14:01:10.309 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-04-25 14:01:10.341 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-25 14:01:10.348 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Started Shppyad21Application in 3.463 seconds (process running for 4.121)
+2023-04-25 14:01:12.920 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-04-25 14:01:12.921 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-04-25 14:01:13.377 [http-nio-8080-exec-1] INFO  c.e.s.PostOffice.PostOfficeService - created new post office
+2023-04-25 14:01:13.380 [http-nio-8080-exec-1] INFO  c.e.s.ServiceExecutionTimeAspect - Execution of PostOfficeService.createPostOffice took 357 ms
+2023-04-25 14:02:46.809 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 14:03:20.628 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Starting Shppyad21Application using Java 19.0.2 with PID 24780 (C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main started by maxpo in C:\Users\maxpo\IdeaProjects\shppyad21)
+2023-04-25 14:03:20.630 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - No active profile set, falling back to 1 default profile: "default"
+2023-04-25 14:03:20.672 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-25 14:03:20.672 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-25 14:03:21.224 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-04-25 14:03:21.275 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 45 ms. Found 2 JPA repository interfaces.
+2023-04-25 14:03:21.786 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-04-25 14:03:21.842 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1170 ms
+2023-04-25 14:03:22.360 [restartedMain] INFO  SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-04-25 14:03:23.038 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 14:03:23.393 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-25 14:03:23.642 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-04-25 14:03:23.672 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-25 14:03:23.681 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Started Shppyad21Application in 3.349 seconds (process running for 3.993)
+2023-04-25 14:03:26.151 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-04-25 14:03:26.153 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2023-04-25 14:03:26.573 [http-nio-8080-exec-1] INFO  c.e.s.PostOffice.PostOfficeService - created new post office
+2023-04-25 14:03:26.575 [http-nio-8080-exec-1] INFO  c.e.s.ServiceExecutionTimeAspect - Execution of PostOfficeService.createPostOffice took 316 ms
+2023-04-25 14:04:09.122 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 14:04:12.883 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Starting Shppyad21Application using Java 19.0.2 with PID 9128 (C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main started by maxpo in C:\Users\maxpo\IdeaProjects\shppyad21)
+2023-04-25 14:04:12.885 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - No active profile set, falling back to 1 default profile: "default"
+2023-04-25 14:04:12.943 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-25 14:04:12.943 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-25 14:04:13.500 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-04-25 14:04:13.557 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 50 ms. Found 2 JPA repository interfaces.
+2023-04-25 14:04:14.078 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-04-25 14:04:14.131 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1187 ms
+2023-04-25 14:04:14.713 [restartedMain] INFO  SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-04-25 14:04:15.411 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 14:04:15.776 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-25 14:04:16.072 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-04-25 14:04:16.102 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-25 14:04:16.111 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Started Shppyad21Application in 3.546 seconds (process running for 4.262)
+2023-04-25 14:04:32.513 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-04-25 14:04:32.514 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-04-25 14:04:33.153 [http-nio-8080-exec-1] INFO  c.e.s.PostOffice.PostOfficeService - created new post office
+2023-04-25 14:04:33.154 [http-nio-8080-exec-1] INFO  c.e.s.ServiceExecutionTimeAspect - Execution of PostOfficeService.createPostOffice took 536 ms
+2023-04-25 14:04:57.034 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 16:53:23.658 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Starting Shppyad21Application using Java 19.0.2 with PID 25424 (C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main started by maxpo in C:\Users\maxpo\IdeaProjects\shppyad21)
+2023-04-25 16:53:23.660 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - No active profile set, falling back to 1 default profile: "default"
+2023-04-25 16:53:23.715 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-25 16:53:23.715 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-25 16:53:24.459 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-04-25 16:53:24.525 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 57 ms. Found 2 JPA repository interfaces.
+2023-04-25 16:53:25.377 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-04-25 16:53:25.448 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1732 ms
+2023-04-25 16:53:26.124 [restartedMain] INFO  SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-04-25 16:53:27.251 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 16:53:27.856 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-25 16:53:28.423 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-04-25 16:53:28.495 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-25 16:53:28.513 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Started Shppyad21Application in 5.229 seconds (process running for 6.463)
+2023-04-25 16:53:36.071 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-04-25 16:53:36.072 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-04-25 16:53:36.119 [http-nio-8080-exec-1] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2023-04-25 16:53:47.703 [http-nio-8080-exec-4] INFO  c.e.s.PostOffice.PostOfficeService - created new post office
+2023-04-25 16:53:47.706 [http-nio-8080-exec-4] INFO  c.e.s.ServiceExecutionTimeAspect - Execution of PostOfficeService.createPostOffice took 1848 ms
+2023-04-25 16:53:55.555 [http-nio-8080-exec-3] INFO  c.e.s.Departure.DepartureService - added new departure
+2023-04-25 16:53:55.556 [http-nio-8080-exec-3] INFO  c.e.s.ServiceExecutionTimeAspect - Execution of DepartureService.addDeparture took 1056 ms
+2023-04-25 16:54:13.508 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 16:54:24.593 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Starting Shppyad21Application using Java 19.0.2 with PID 4064 (C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main started by maxpo in C:\Users\maxpo\IdeaProjects\shppyad21)
+2023-04-25 16:54:24.596 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - No active profile set, falling back to 1 default profile: "default"
+2023-04-25 16:54:24.660 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-25 16:54:24.660 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-25 16:54:25.616 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-04-25 16:54:25.670 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 46 ms. Found 2 JPA repository interfaces.
+2023-04-25 16:54:26.351 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-04-25 16:54:26.433 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1772 ms
+2023-04-25 16:54:27.474 [restartedMain] INFO  SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-04-25 16:54:28.512 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 16:54:29.050 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-25 16:54:29.408 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-04-25 16:54:29.448 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-25 16:54:29.457 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Started Shppyad21Application in 5.34 seconds (process running for 6.306)
+2023-04-25 16:54:41.365 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-04-25 16:54:41.366 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-04-25 16:54:41.625 [http-nio-8080-exec-1] INFO  c.e.s.PostOffice.PostOfficeService - created new post office
+2023-04-25 16:54:41.628 [http-nio-8080-exec-1] INFO  c.e.s.ServiceExecutionTimeAspect - Execution of PostOfficeService.createPostOffice took 81 ms
+2023-04-25 16:54:46.044 [http-nio-8080-exec-3] INFO  c.e.s.Departure.DepartureService - added new departure
+2023-04-25 16:54:46.045 [http-nio-8080-exec-3] INFO  c.e.s.ServiceExecutionTimeAspect - Execution of DepartureService.addDeparture took 63 ms
+2023-04-25 16:56:01.277 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 17:00:27.148 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Starting Shppyad21Application using Java 19.0.2 with PID 6544 (C:\Users\maxpo\IdeaProjects\shppyad21\build\classes\java\main started by maxpo in C:\Users\maxpo\IdeaProjects\shppyad21)
+2023-04-25 17:00:27.150 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - No active profile set, falling back to 1 default profile: "default"
+2023-04-25 17:00:27.201 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-25 17:00:27.201 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-25 17:00:27.883 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-04-25 17:00:27.934 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 44 ms. Found 2 JPA repository interfaces.
+2023-04-25 17:00:28.801 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-04-25 17:00:28.870 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1668 ms
+2023-04-25 17:00:29.598 [restartedMain] INFO  SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-04-25 17:00:30.479 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-04-25 17:00:31.026 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-25 17:00:31.452 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-04-25 17:00:31.509 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-25 17:00:31.519 [restartedMain] INFO  c.e.shppyad21.Shppyad21Application - Started Shppyad21Application in 4.696 seconds (process running for 5.545)
+2023-04-25 17:00:39.275 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-04-25 17:00:39.276 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-04-25 17:00:39.445 [http-nio-8080-exec-1] INFO  c.e.s.PostOffice.PostOfficeService - created new post office
+2023-04-25 17:00:39.447 [http-nio-8080-exec-1] INFO  c.e.s.ServiceExecutionTimeAspect - Execution of PostOfficeService.createPostOffice took 46 ms
+2023-04-25 17:00:55.258 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
